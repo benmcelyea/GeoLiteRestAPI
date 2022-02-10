@@ -11,7 +11,7 @@ A simple rest API to resolve IP addresses using the GeoLite2 City database. IPV4
 ## API endpoint: 
 /api/v1/ip/:ipaddress
 
-### Example 
+### Example lookup: 
 [http://localhost:3000/api/v1/ip/185.199.108.0](http://localhost:3000/api/v1/ip/185.199.108.0)
 
 #### Example Success response:
