@@ -1,6 +1,5 @@
 # GeoLiteRestAPI
-A simple rest API for resolving IP addresses using the GeoLite2 database. IPV4 and IPV6 compativble 
-
+A simple rest API to resolve IP addresses using the GeoLite2 City database. IPV4 and IPV6 compativble. 
 
 ## Installation
 - Clone the repo
